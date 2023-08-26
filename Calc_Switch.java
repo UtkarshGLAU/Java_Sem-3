@@ -7,8 +7,7 @@ public class Calc_Switch{
         System.out.printf("Enter the second Number-");
         float b=Sc.nextFloat();
         System.out.printf("Enter the Operator-");
-        char operator =Sc.next().charAt(0);
-        Sc.close();
+        char operator =Sc.next().charAt(0);Sc.close();
         switch(operator){
             case '+':
             System.out.printf("%f %c %f = %f",a,operator,b,a+b);
@@ -30,3 +29,6 @@ public class Calc_Switch{
         }
     }
 }
+
+
+//UTKARSH SHARMA   68

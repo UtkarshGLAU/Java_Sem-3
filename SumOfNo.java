@@ -1,6 +1,8 @@
-public class SumOfNo {
+public class SumOfNo{
     public static void main(String[] args) {
-        int a=7,b=8;
-        System.out.printf("Sum is %d",a+b);
+        int a=10,b=12;
+        System.out.println(a+b);
     }
 }
+
+//UTKARSH SHARMA   68
