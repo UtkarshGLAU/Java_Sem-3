@@ -12,6 +12,7 @@ public class InputSc {
         String h=sc.next();
         String i=sc.nextLine();
         sc.close();
+        System.out.println(a+" "+b+" "+c+" "+d+" "+e+" "+f+" "+g+" "+h+" "+i);
     }
 }
 

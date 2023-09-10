@@ -1,4 +1,4 @@
-public class LeapYear {
+public class If6 {
     public static void main(String[] args) {
         int year=7000;
         if (year%4==0){

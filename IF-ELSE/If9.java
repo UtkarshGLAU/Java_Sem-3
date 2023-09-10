@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class AlpDiSpec {
+public class If9 {
     public static void main(String[] args) {
        Scanner sc = new Scanner(System.in);
        char a=sc.next().charAt(0);
@@ -9,3 +9,4 @@ public class AlpDiSpec {
        sc.close(); 
     }
 }
+// UTKARSH SHARMA--68

@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class NoDayMonth {
+public class If12 {
    public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
     int n = sc.nextInt();
@@ -9,3 +9,4 @@ public class NoDayMonth {
     else System.out.println("31");
    } 
 }
+// UTKARSH SHARMA--68

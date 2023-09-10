@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class WeekDay {
+public class If11 {
     public static void main(String[] args) {
        Scanner sc = new Scanner(System.in);
        int dayOfWeek = sc.nextInt();
@@ -27,3 +27,4 @@ public class WeekDay {
     }
 
 }
+// UTKARSH SHARMA--68
